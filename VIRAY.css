@@ -143,3 +143,50 @@ body {
     border: 8px solid antiquewhite;
 
 }
+
+.about{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+    border: 40px solid;
+}
+
+.about .imgme .im{
+    position: absolute;
+    top: 1170px;
+    border-radius: 7%;
+    box-shadow: 0 0 50px aqua;
+    background-color: #001b1b;
+    left: 230px;
+    height: 550px;
+    
+}
+.about .me{
+    left: 1450px;
+    position: absolute;
+    top: 1180px;
+    font-size: 100px;
+    
+}
+
+.about .details{
+    left: 1010px;
+    position: absolute;
+    top: 1170px;
+    border: 10px solid;
+    padding: 0 15px;
+
+
+}
+
+.about .dtwo{
+    left: 1380px;
+    position: absolute;
+    top: 1370px;
+    border: 10px solid;
+    padding: 0 15px;
+    height: 330px;
+    width: 350px;
+
+}
